@@ -1,0 +1,33 @@
+[
+  {
+    "route_id": "R14",
+    "route_name": "14 - ADYAR AAVIN",
+    "assigned_driver": "Ramesh Kumar (DRV-101)",
+    "stops": [
+      { "sequence": 1, "name": "ADYAR AAVIN", "time": "06:25 AM", "lat": 13.0063, "lng": 80.2575 },
+      { "sequence": 2, "name": "ADYAR TELEPHONE EXCHANGE", "time": "06:30 AM", "lat": 13.0031, "lng": 80.2550 },
+      { "sequence": 3, "name": "PTC QUARTERS", "time": "06:35 AM", "lat": 12.9928, "lng": 80.2483 }
+    ]
+  },
+  {
+    "route_id": "R108",
+    "route_name": "108 - ALANDUR METRO",
+    "assigned_driver": "Suresh Babu (DRV-102)",
+    "stops": [
+      { "sequence": 1, "name": "ALANDUR METRO", "time": "06:45 AM", "lat": 13.0042, "lng": 80.2015 },
+      { "sequence": 2, "name": "NANGANALLUR PETROL BUNK", "time": "06:50 AM", "lat": 12.9811, "lng": 80.1913 },
+      { "sequence": 3, "name": "MEENAMBAKKAM", "time": "06:55 AM", "lat": 12.9871, "lng": 80.1762 },
+      { "sequence": 4, "name": "CHROMPET SARAVANA STORES", "time": "07:05 AM", "lat": 12.9517, "lng": 80.1408 }
+    ]
+  },
+  {
+    "route_id": "R12",
+    "route_name": "12 - ASHOK PILLAR",
+    "assigned_driver": "Karthik Raja (DRV-103)",
+    "stops": [
+      { "sequence": 1, "name": "ASHOK PILLAR", "time": "06:35 AM", "lat": 13.0352, "lng": 80.2122 },
+      { "sequence": 2, "name": "KASI THEATRE", "time": "06:40 AM", "lat": 13.0312, "lng": 80.2089 },
+      { "sequence": 3, "name": "EKKATU THANGAL", "time": "06:45 AM", "lat": 13.0234, "lng": 80.2019 }
+    ]
+  }
+]
