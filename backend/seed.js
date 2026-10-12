@@ -18,7 +18,7 @@ async function seedData() {
 
     // Seed Admin & Driver accounts
     const defaultUsers = [
-      { name: 'John Driver', user_id: 'DRV-101', password: 'driver123', role: 'driver' },
+      { name: 'Rajesh', user_id: 'DRV-101', password: 'driver123', role: 'driver' },
       { name: 'System Administrator', user_id: 'ADM-001', password: 'admin123', role: 'admin' }
     ];
 
